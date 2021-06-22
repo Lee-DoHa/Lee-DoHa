@@ -1,7 +1,6 @@
 # JongKeun 😉
 ### Who Am I
-- 🌱 I’m currently learning software, back-end, algorithm
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=johnny550">
+- 🌱 I’m currently learning software, back-end, algorithm  <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=johnny550">
 - 🥇 I'm majoring in Software.  
 - 🚅 My hometown is AnYang, Gyeonggi-do in Korea
 
