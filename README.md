@@ -6,6 +6,8 @@
 
 ### Experience
 - 🎓 Soongsil University , Software (2017.03~ )
+- 
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=johnny550">
 
 
 ### What I Like
@@ -19,7 +21,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:johnny55043@gmail.com)
 
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=johnny550">
 
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=LeeJongKeun" height="165">
