@@ -3,16 +3,17 @@
 - 🌱 I’m currently learning software, back-end, algorithm
 - 🥇 I'm majoring in Software.
 - 🚅 My hometown is AnYang, Gyeonggi-do in Korea
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=johnny550">
 
 ### Experience
 - 🎓 Soongsil University , Software (2017.03~ )
-- 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=johnny550">
 
 
 ### What I Like
 - 📺 Movie
 - 🔵 Game
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=LeeJongKeun" height="165">
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaesoo9410&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/LeeJongKeun)
@@ -22,5 +23,3 @@
 
 
 
-
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=LeeJongKeun" height="165">
