@@ -20,3 +20,4 @@
 
 [![Solved.ac
 ](http://mazassumnida.wtf/api/v2/generate_badge?boj=johnny550)](https://solved.ac/profile/johnny550)
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=johnny550">
