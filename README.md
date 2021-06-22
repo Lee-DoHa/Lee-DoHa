@@ -19,4 +19,4 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:johnny55043@gmail.com)
 
 [![Solved.ac
-](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/profile/johnny550)
+](http://mazassumnida.wtf/api/v2/generate_badge?boj=johnny550)](https://solved.ac/profile/johnny550)
